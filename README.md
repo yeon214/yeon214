@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=A4E2EA&height=300&section=header&text=yeon214&fontSize=90&animation=fadeIn&fontAlignY=38&desc=신승연&fontColor=ffffff&descAlignY=51&descAlign=72)
+  
 <!--
 **yeon214/yeon214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
