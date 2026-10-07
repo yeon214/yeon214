@@ -42,11 +42,35 @@ Generative AI · LLM Service Development · Data
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,mysql,git,github,aws&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" />
 
 <br><br>
 
-`C++`　`Python`　`Java`　 `HTML`　`CSS`　`JavaScript` 　`MySQL`　 `Git`　`GitHub`　`AWS`
+<code>C++</code>
+&nbsp;
+<code>Python</code>
+&nbsp;
+<code>Java</code>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<code>HTML</code>
+&nbsp;
+<code>CSS</code>
+&nbsp;
+<code>JavaScript</code>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<code>MySQL</code>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<code>Git</code>
+&nbsp;
+<code>GitHub</code>
+&nbsp;
+<code>AWS</code>
 
 </div>
 
