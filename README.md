@@ -8,16 +8,19 @@
 
 <br><br>
 
-<samp>
-생성형 AI와 LLM을 활용한 백엔드 개발에 관심이 있습니다<br>
+<div align="center">
+
+### 생성형 AI와 LLM을 활용한 백엔드 개발에 관심이 있습니다
 아이디어를 실제 서비스로 구현하고 개선하는 과정을 좋아합니다
-</samp>
+
+</div>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI-8B8CFF?style=flat-square">
 <img src="https://img.shields.io/badge/LLM-7868E6?style=flat-square">
 <img src="https://img.shields.io/badge/DATA-45B8D8?style=flat-square">
+<img src="https://img.shields.io/badge/BACKEND-3976A8?style=flat-square">
 <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-242938?style=flat-square">
 
 </div>
