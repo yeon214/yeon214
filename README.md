@@ -29,13 +29,23 @@
 
 ## `01. ABOUT`
 
-**Software Engineering Student**  
-Generative AI · LLM Service Development · Data
+<table>
+  <tr>
+    <td><b>🎓 Major</b></td>
+    <td>Software Engineering</td>
+  </tr>
+  <tr>
+    <td><b>💡 Interests</b></td>
+    <td>Generative AI · LLM · Backend · Data</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Focus</b></td>
+    <td>AI-powered Backend Service Development</td>
+  </tr>
+</table>
 
-꾸준한 문제 풀이와 프로젝트를 통해 개발 역량을 쌓고 있습니다  
-새로운 기술을 배우고 직접 구현하면서 개선하는 과정을 좋아합니다
-
-<br>
+> **새로운 기술을 배우는 것에서 그치지 않고 직접 구현해보는 것을 좋아합니다**  
+> 꾸준한 문제 풀이와 프로젝트를 통해 개발 역량을 쌓고 있습니다
 
 ## `02. TECH STACK`
 
