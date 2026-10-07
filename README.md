@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-header.png" width="100%" alt="SeungYeon Shin">
+<img src="./github-header-cropped.png" width="100%" alt="SeungYeon Shin">
 
 <h3>
 생성형 AI와 LLM을 활용한 백엔드 개발에 관심이 있습니다<br>
