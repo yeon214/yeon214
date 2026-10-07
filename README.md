@@ -89,10 +89,15 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ☁️ AWS Certified
+<br>
 
+### `AWS::ML_ENGINEER`
+
+☁️
+
+**AWS Certified**  
 **Machine Learning Engineer – Associate**
 
 <sub>Amazon Web Services</sub>
@@ -100,24 +105,33 @@
 <br><br>
 
 <a href="https://www.credly.com/badges/a3e9089b-a2a5-4be5-af31-bb4f9fa40d69">
-  <img src="https://img.shields.io/badge/Verify_Credential-8B8CFF?style=flat-square&logo=credly&logoColor=white">
+  <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-8B8CFF?style=for-the-badge&logo=credly&logoColor=white">
 </a>
+
+<br><br>
 
 </td>
 
-<td width="50%" valign="top">
-
-### 💻 PCCE
-
-**Programmers Certified Coding Essential**
-
-C++ · **Level 2**
+<td width="50%" align="center">
 
 <br>
 
+### `PCCE::CPP_LV2`
+
+💻
+
+**Programmers Certified**  
+**Coding Essential**
+
+<sub>C++ · Level 2</sub>
+
+<br><br>
+
 <a href="./PCCE_Certificate_Public.pdf">
-  <img src="https://img.shields.io/badge/View_Certificate-45B8D8?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_CERTIFICATE-45B8D8?style=for-the-badge&logo=cplusplus&logoColor=white">
 </a>
+
+<br><br>
 
 </td>
 </tr>
