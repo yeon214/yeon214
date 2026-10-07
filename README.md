@@ -89,11 +89,21 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="330" align="center" valign="middle">
+
 <br>
 
-### ☁️ AWS Certified Machine Learning Engineer – Associate
+☁️ &nbsp; <b>AWS CERTIFIED</b>
 
-`Amazon Web Services` &nbsp; `Machine Learning` &nbsp; `Associate`
+### Machine Learning Engineer
+**Associate**
+
+<code>Amazon Web Services</code>
+
+<br><br>
 
 <a href="https://www.credly.com/badges/a3e9089b-a2a5-4be5-af31-bb4f9fa40d69">
   <img src="https://img.shields.io/badge/VIEW_CREDENTIAL-8B8CFF?style=flat-square&logo=credly&logoColor=white">
@@ -101,9 +111,20 @@
 
 <br><br>
 
-### 💻 PCCE C++ · Level 2
+</td>
 
-`Programmers` &nbsp; `C++` &nbsp; `Level 2`
+<td width="330" align="center" valign="middle">
+
+<br>
+
+💻 &nbsp; <b>PCCE</b>
+
+### C++ · Level 2
+**Coding Essential**
+
+<code>Programmers</code>
+
+<br><br>
 
 <a href="./PCCE_Certificate_Public.pdf">
   <img src="https://img.shields.io/badge/VIEW_CERTIFICATE-45B8D8?style=flat-square&logo=cplusplus&logoColor=white">
@@ -111,7 +132,14 @@
 
 <br><br>
 
+</td>
+
+</tr>
+</table>
+
 </div>
+
+<br>
 
 ---
 <div align="center">
