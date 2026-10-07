@@ -87,17 +87,15 @@
 
 ## `03. CERTIFICATIONS`
 
-<div align="center">
-
-<a href="AWS_CREDLY_주소">
-  <img src="./assets/aws-cert-card.svg" width="45%">
-</a>
-&nbsp;&nbsp;
-<a href="./PCCE_Certificate_Public.pdf">
-  <img src="./assets/pcce-cert-card.svg" width="45%">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.credly.com/badges/a3e9089b-a2a5-4be5-af31-bb4f9fa40d69">
+    <img src="./aws-cert-card.svg" width="46%" alt="AWS Certified Machine Learning Engineer - Associate">
+  </a>
+  &nbsp;&nbsp;
+  <a href="./PCCE_Certificate_Public.pdf">
+    <img src="./pcce-cert-card.svg" width="46%" alt="PCCE C++ Level 2">
+  </a>
+</p>
 
 <br>
 
