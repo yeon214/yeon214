@@ -1,22 +1,28 @@
 <div align="center">
 
-<h1>SeungYeon Shin</h1>
-
-<h3>AI · LLM · Software Engineering</h3>
-
-<p>
-  생성형 AI와 LLM을 활용한 서비스 개발에 관심이 있습니다<br>
-  아이디어를 실제로 동작하는 서비스로 구현하는 과정을 좋아합니다
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B8CFF&center=true&vCenter=true&width=650&height=70&lines=SeungYeon+Shin" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F7FFF&center=true&vCenter=true&width=500&lines=AI+%C2%B7+LLM+%C2%B7+Data;Building+%C2%B7+Learning+%C2%B7+Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1200&color=63D8E5&center=true&vCenter=true&width=650&height=35&lines=AI+%C2%B7+LLM+%C2%B7+Software+Engineering" />
+
+<br><br>
+
+<samp>
+생성형 AI와 LLM을 활용한 서비스 개발에 관심이 있습니다<br>
+아이디어를 실제 서비스로 구현하고 개선하는 과정을 좋아합니다
+</samp>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-8B8CFF?style=flat-square">
+<img src="https://img.shields.io/badge/LLM-7868E6?style=flat-square">
+<img src="https://img.shields.io/badge/DATA-45B8D8?style=flat-square">
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-242938?style=flat-square">
 
 </div>
 
 <br>
-
 ---
 
 ## `01. ABOUT`
