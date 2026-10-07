@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="250" viewBox="0 0 620 250">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8B8CFF"/>
+      <stop offset="100%" stop-color="#7868E6"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="616" height="246" rx="18" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="0" y="0" width="7" height="250" rx="4" fill="url(#g)"/>
+  <text x="38" y="48" fill="#8B8CFF" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700">AWS CERTIFIED</text>
+  <circle cx="570" cy="42" r="7" fill="#8B8CFF"/>
+  <text x="38" y="92" fill="#F0F6FC" font-family="Arial, sans-serif" font-size="25" font-weight="700">Machine Learning Engineer</text>
+  <text x="38" y="124" fill="#F0F6FC" font-family="Arial, sans-serif" font-size="25" font-weight="700">– Associate</text>
+  <text x="38" y="162" fill="#8B949E" font-family="Consolas, 'Courier New', monospace" font-size="15">Amazon Web Services</text>
+  <rect x="38" y="190" width="172" height="34" rx="8" fill="#21262D" stroke="#8B8CFF"/>
+  <text x="54" y="212" fill="#C9D1D9" font-family="Consolas, 'Courier New', monospace" font-size="13">↗ VIEW CREDENTIAL</text>
+</svg>
