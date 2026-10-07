@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./github-header.svg" width="100%" alt="SeungYeon Shin">
+ <img src="./github-header.png" width="100%" alt="SeungYeon Shin">
 </p>
 
 <h3>
