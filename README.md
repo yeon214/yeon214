@@ -1,67 +1,45 @@
 <div align="center">
 
-# `SeungYeon Shin`
+<h1>SeungYeon Shin</h1>
 
-### ✦ Software Engineering Student
+<h3>AI · LLM · Software Engineering</h3>
 
-`AI`　`LLM`　`Data`　`Problem Solving`
+<p>
+  생성형 AI와 LLM을 활용한 서비스 개발에 관심이 있습니다<br>
+  아이디어를 실제로 동작하는 서비스로 구현하는 과정을 좋아합니다
+</p>
 
 <br>
 
-> **Building intelligent services with AI & LLMs**  
-> Learning through projects, algorithms, and continuous exploration
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7F7FFF&center=true&vCenter=true&width=500&lines=AI+%C2%B7+LLM+%C2%B7+Data;Building+%C2%B7+Learning+%C2%B7+Problem+Solving" />
 
 </div>
 
 <br>
 
-## `> about_me`
+---
 
-```yaml
-name: SeungYeon Shin
-major: Software Engineering
+## `01. ABOUT`
 
-interests:
-  - Generative AI
-  - LLM Services
-  - Data
+**Software Engineering Student**  
+Generative AI · LLM Service Development · Data
 
-focus:
-  - AI Service Development
-  - Problem Solving
-```
+꾸준한 문제 풀이와 프로젝트를 통해 개발 역량을 쌓고 있습니다  
+새로운 기술을 배우고 직접 구현하면서 개선하는 과정을 좋아합니다
 
 <br>
 
-## `> tech_stack`
+## `02. TECH STACK`
 
-### `Languages`
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,mysql,git,github,aws&theme=dark&perline=10" />
 
-### `Web & Database`
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" />
-</p>
+`C++`　`Python`　`Java`　`HTML`　`CSS`　`JavaScript`　`MySQL`　`Git`　`GitHub`　`AWS`
 
-### `Tools & Cloud`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" />
-</p>
-
-<br>
-
-## `> currently`
-
-```text
-$ studying    Computer Science & AI
-$ building    AI / LLM Projects
-$ solving     Algorithms & Problem Solving
-```
+</div>
 
 <br>
 
@@ -69,6 +47,6 @@ $ solving     Algorithms & Problem Solving
 
 <div align="center">
 
-`Code · Learn · Build · Repeat`
+### `Explore · Build · Improve`
 
 </div>
