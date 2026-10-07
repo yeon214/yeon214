@@ -85,6 +85,47 @@
 
 ---
 
+## `03. CERTIFICATIONS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ AWS Certified
+
+**Machine Learning Engineer – Associate**
+
+<sub>Amazon Web Services</sub>
+
+<br><br>
+
+<a href="https://www.credly.com/badges/a3e9089b-a2a5-4be5-af31-bb4f9fa40d69">
+  <img src="https://img.shields.io/badge/Verify_Credential-8B8CFF?style=flat-square&logo=credly&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 PCCE
+
+**Programmers Certified Coding Essential**
+
+C++ · **Level 2**
+
+<br>
+
+<a href="./PCCE_Certificate.pdf">
+  <img src="https://img.shields.io/badge/View_Certificate-45B8D8?style=flat-square&logo=cplusplus&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 <div align="center">
 
 </div>
