@@ -89,41 +89,29 @@
 
 <div align="center">
 
-### `// CERTIFIED`
-
 <br>
 
+### ☁️ AWS Certified Machine Learning Engineer – Associate
+
+`Amazon Web Services` &nbsp; `Machine Learning` &nbsp; `Associate`
+
 <a href="https://www.credly.com/badges/a3e9089b-a2a5-4be5-af31-bb4f9fa40d69">
-  <img src="https://img.shields.io/badge/AWS-Certified_Machine_Learning_Engineer_–_Associate-8B8CFF?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="./PCCE_Certificate_Public.pdf">
-  <img src="https://img.shields.io/badge/PCCE-C++_Level_2-45B8D8?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_CREDENTIAL-8B8CFF?style=flat-square&logo=credly&logoColor=white">
 </a>
 
 <br><br>
 
-<sub>
-AWS Certified Machine Learning Engineer – Associate
-&nbsp;&nbsp;·&nbsp;&nbsp;
-Programmers Certified Coding Essential C++ Lv.2
-</sub>
+### 💻 PCCE C++ · Level 2
+
+`Programmers` &nbsp; `C++` &nbsp; `Level 2`
+
+<a href="./PCCE_Certificate_Public.pdf">
+  <img src="https://img.shields.io/badge/VIEW_CERTIFICATE-45B8D8?style=flat-square&logo=cplusplus&logoColor=white">
+</a>
 
 <br><br>
-
-<a href="https://www.credly.com/badges/a3e9089b-a2a5-4be5-af31-bb4f9fa40d69">
-  <code>↗ AWS Credential</code>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./PCCE_Certificate_Public.pdf">
-  <code>↗ PCCE Certificate</code>
-</a>
 
 </div>
-
-<br>
 
 ---
 <div align="center">
