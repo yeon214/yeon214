@@ -115,7 +115,7 @@ C++ · **Level 2**
 
 <br>
 
-<a href="./PCCE_Certificate.pdf">
+<a href="./PCCE_Certificate_Public.pdf">
   <img src="https://img.shields.io/badge/View_Certificate-45B8D8?style=flat-square&logo=cplusplus&logoColor=white">
 </a>
 
