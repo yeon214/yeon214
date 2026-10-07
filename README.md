@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=999999&color=8B8CFF&center=true&vCenter=true&width=650&height=55&lines=SeungYeon+Shin" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1800&pause=999999&color=63D8E5&center=true&vCenter=true&width=650&height=30&lines=AI+%C2%B7+LLM+%C2%B7+Software+Engineering" />
-
-<br>
+<p align="center">
+  <img src="./github-header.svg" width="100%" alt="SeungYeon Shin">
+</p>
 
 <h3>
 생성형 AI와 LLM을 활용한 백엔드 개발에 관심이 있습니다
