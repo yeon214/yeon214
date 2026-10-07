@@ -9,7 +9,7 @@
 <br><br>
 
 <samp>
-생성형 AI와 LLM을 활용한 서비스 개발에 관심이 있습니다<br>
+생성형 AI와 LLM을 활용한 백엔드 개발에 관심이 있습니다<br>
 아이디어를 실제 서비스로 구현하고 개선하는 과정을 좋아합니다
 </samp>
 
@@ -43,7 +43,7 @@ Generative AI · LLM Service Development · Data
 
 <br><br>
 
-`C++`　`Python`　`Java`　`HTML`　`CSS`　`JavaScript`　`MySQL`　`Git`　`GitHub`　`AWS`
+`C++`　`Python`　`Java`　 `HTML`　`CSS`　`JavaScript` 　`MySQL`　 `Git`　`GitHub`　`AWS`
 
 </div>
 
