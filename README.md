@@ -87,6 +87,4 @@
 
 <div align="center">
 
-### `Explore · Build · Improve`
-
 </div>
