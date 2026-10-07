@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B8CFF&center=true&vCenter=true&width=650&height=70&lines=SeungYeon+Shin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1800&pause=1000&color=8B8CFF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=SeungYeon+Shin" />
 
 <br>
 
