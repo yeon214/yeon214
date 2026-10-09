@@ -92,13 +92,5 @@
 
 <br>
 
----
-## `04. GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeon214&bg_color=0D1117&color=C4B5FD&title_color=B794F6&line=9061E8&point=D9C5FF&area=true&area_color=6B35C8&hide_border=true" width="100%" alt="GitHub Activity Graph">
-
-<div align="center">
 
 </div>
