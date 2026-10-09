@@ -1,0 +1,29 @@
+
+name: Purple GitHub Grass
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate purple contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: yeon214
+          outputs: |
+            dist/purple-grass.svg?color_snake=transparent&color_dots=%23F3EDFF,%23D9C5FF,%23B794F6,%239061E8,%236B35C8
+
+      - name: Publish graph
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
