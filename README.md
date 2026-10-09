@@ -92,5 +92,17 @@
 
 <br>
 
+<br>
+
+---
+
+## `04. GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yeon214/yeon214/output/purple-grass.svg" width="100%" alt="Purple GitHub Contributions">
+
+</div>
+
 
 </div>
