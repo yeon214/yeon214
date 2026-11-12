@@ -185,7 +185,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
     <img src="./velog-card.svg" width="46%" alt="Velog Tech Blog">
   </a>
   &nbsp;&nbsp;
-  <img src="./notion-card.svg?v=2" width="46%" alt="Notion Portfolio - Coming Soon">
+  <img src="./notion.svg" width="46%" alt="Notion Portfolio - Coming Soon">
 </p>
 
 <br>
