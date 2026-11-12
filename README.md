@@ -38,6 +38,103 @@ I enjoy learning new technologies and applying them to solve real-world problems
 </table>
 
 
+<br>
+
+---
+
+## `02. PROJECTS`
+
+<table>
+  <tr>
+    <td width="100%">
+
+<h3>AI-Based Flood Detection & Road Safety System</h3>
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-F4B942?style=flat-square">
+<img src="https://img.shields.io/badge/Capstone-Team%20Project-7868E6?style=flat-square">
+
+<p>
+An AI-powered system designed to detect flooding and improve road safety
+using camera footage, sensor data, and weather information.
+</p>
+
+<h4>Tech Stack</h4>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-7868E6?style=flat-square">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/LLM-8B8CFF?style=flat-square">
+
+<h4>My Contributions</h4>
+
+<ul>
+  <li>
+    Applied for and tested the Korea Meteorological Administration (KMA) Weather API.
+  </li>
+  <li>
+    Collaborated on researching AI training datasets.
+  </li>
+  <li>
+    Reviewed hardware requirements, selected components, and organized procurement lists for the prototype.
+  </li>
+</ul>
+
+<h4>🏆 Competitions</h4>
+
+<table>
+  <tr>
+    <th>Competition</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>2026 모두의 창업</td>
+    <td>2차 1R 진출 · 참가 중</td>
+  </tr>
+  <tr>
+    <td>교내 콜라보 경진대회</td>
+    <td>참가 중</td>
+  </tr>
+  <tr>
+    <td>교내 캡스톤 경진대회</td>
+    <td>참가 중</td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/yeon214">
+    <img src="https://img.shields.io/badge/View%20Repository-242938?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+
+<h3>Computer Vision Project</h3>
+
+<img src="https://img.shields.io/badge/Coming%20Soon-8B8CFF?style=flat-square">
+
+<p>A new computer vision project is on the way.</p>
+
+<br>
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+
 
 
 ## `02. TECH STACK`
