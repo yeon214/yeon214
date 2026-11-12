@@ -180,47 +180,14 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 ## `05. LINKS`
 
-<p>
-학습 과정과 프로젝트 경험을 기록하고 공유합니다.
+<p align="center">
+  <a href="https://velog.io/@sunyeon1115/posts">
+    <img src="./velog-card.svg" width="46%" alt="Velog Tech Blog">
+  </a>
+  &nbsp;&nbsp;
+  <img src="./notion-card.svg" width="46%" alt="Notion Portfolio - Coming Soon">
 </p>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📗 Velog</h3>
-
-<p>
-새롭게 배운 기술과 문제 해결 과정을<br>
-기록하는 기술 블로그
-</p>
-
-<a href="https://velog.io/@sunyeon1115/posts">
-<img src="https://img.shields.io/badge/Visit%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📁 Notion</h3>
-
-<p>
-프로젝트 경험과 주요 활동을<br>
-정리한 포트폴리오
-</p>
-
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7868E6?style=for-the-badge&logo=notion&logoColor=white">
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
 ---
-
-
-</div>
