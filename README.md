@@ -174,6 +174,26 @@ I enjoy learning new technologies and applying them to solve real-world problems
 </tr>
 </table>
 
+<br>
+
+---
+
+## `05. LINKS`
+
+<p align="center">
+  <a href="https://velog.io/@sunyeon1115/posts">
+    <img src="https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="YOUR_NOTION_URL">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-242938?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+---
+
 
 
 <br>
