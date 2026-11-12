@@ -3,10 +3,10 @@
 
 <img src="./github-header-cropped.png?v=2" width="100%" alt="SeungYeon Shin">
 
-<h3>
-Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
-I enjoy learning new technologies and applying them to solve real-world problems.
-</h3>
+<p align="center">
+  <b>Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
+  I enjoy learning new technologies and applying them to solve real-world problems.</b>
+</p>
 
 <img src="https://img.shields.io/badge/AI-8B8CFF?style=flat-square">
 <img src="https://img.shields.io/badge/LLM-7868E6?style=flat-square">
@@ -15,8 +15,6 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-242938?style=flat-square">
 
 </div>
-
-<br>
 
 ---
 
