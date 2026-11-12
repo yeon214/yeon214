@@ -119,8 +119,6 @@ using camera footage, sensor data, and weather information.
 <p>A new computer vision project is on the way.</p>
 
 <br>
-
-    </td>
   </tr>
 </table>
 
