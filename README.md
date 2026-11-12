@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<img src="./github-header-cropped.png?v=2" width="100%" alt="SeungYeon Shin">
+<img src="./github-header-cropped.png?v=3" width="100%" alt="SeungYeon Shin">
 
-<p align="center">
-  <b>Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
-  I enjoy learning new technologies and applying them to solve real-world problems.</b>
-</p>
+<h3>
+Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
+I enjoy learning new technologies and applying them to solve real-world problems.
+</h3>
 
 <img src="https://img.shields.io/badge/AI-8B8CFF?style=flat-square">
 <img src="https://img.shields.io/badge/LLM-7868E6?style=flat-square">
