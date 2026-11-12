@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./github-header-cropped.png?v=3" width="100%" alt="SeungYeon Shin">
+<img src="./banner" width="100%" alt="SeungYeon Shin">
 
 <h3>
 Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
