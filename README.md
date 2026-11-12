@@ -52,8 +52,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <img src="https://img.shields.io/badge/Capstone-Team%20Project-7868E6?style=flat-square">
 
 <p>
-An AI-powered system designed to detect flooding and improve road safety
-using camera footage, sensor data, and weather information.
+카메라 영상, 수위 센서 및 기상 데이터를 활용하여 터널·지하차도의 침수 위험을 감지하고, 위험 상황에 대응하기 위한 AI 기반 도로 안전 관리 시스템
 </p>
 
 <h4>Tech Stack</h4>
@@ -69,15 +68,30 @@ using camera footage, sensor data, and weather information.
 
 <ul>
   <li>
-    Applied for and tested the Korea Meteorological Administration (KMA) Weather API.
+   기상청 API 신청 및 호출 테스트
   </li>
   <li>
-    Collaborated on researching AI training datasets.
+    AI 모델 학습용 데이터셋 공동 조사
   </li>
   <li>
-    Reviewed hardware requirements, selected components, and organized procurement lists for the prototype.
+    시연용 하드웨어 요구사항 검토, 부품 선정 및 구매 목록 정리
   </li>
 </ul>
+
+<h4>Planned Contributions</h4>
+
+<p>
+<img src="https://img.shields.io/badge/Planned-6%20Tasks-7868E6?style=flat-square">
+</p>
+
+<ol>
+  <li>터널 2곳의 좌표를 기상청 격자 좌표로 변환하고 강수량 데이터 수집 코드 구현</li>
+  <li>AI 모델 학습 데이터 분담 및 라벨링</li>
+  <li>센서 데이터와 기상청 데이터를 결합하여 위험도 판단 로직에 전달하는 모듈 구현</li>
+  <li>위험도 이력·센서 데이터·AI 분석 결과를 활용한 보고서 입력 데이터 구성</li>
+  <li>Ollama 기반 LLM 자동 보고서 생성 기능 구현</li>
+  <li>실제 센서·카메라 데이터를 활용한 시스템 통합 테스트 및 오류 수정</li>
+</ol>
 
 <h4>🏆 Competitions</h4>
 
