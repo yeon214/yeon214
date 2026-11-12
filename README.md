@@ -159,8 +159,8 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 <tr>
 <td><b>Python</b></td>
-<td>★★☆☆☆</td>
-<td>기초 문법, API 호출 및 데이터 처리 학습</td>
+<td>★★★☆☆</td>
+<td>API 호출 및 데이터 처리 학습</td>
 </tr>
 
 <tr>
@@ -170,11 +170,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
 </tr>
 </table>
 
-<h3>Tools & Platforms</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode&theme=dark" alt="Git, GitHub, AWS, VS Code">
-</p>
 
 <br>
 
