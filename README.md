@@ -46,7 +46,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
   <tr>
     <td width="100%">
 
-<h3>AI-Based Flood Detection & Road Safety System</h3>
+<h2>AI-Based Flood Detection & Road Safety System</h2>
 
 <img src="https://img.shields.io/badge/Status-In%20Progress-F4B942?style=flat-square">
 <img src="https://img.shields.io/badge/Capstone-Team%20Project-7868E6?style=flat-square">
