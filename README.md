@@ -122,50 +122,6 @@ I enjoy learning new technologies and applying them to solve real-world problems
 </table>
 
 <br>
-
----
-
-
-
-
-## `02. TECH STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" />
-
-<br><br>
-
-<code>C++</code>
-&nbsp;
-<code>Python</code>
-&nbsp;
-<code>Java</code>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<code>HTML</code>
-&nbsp;
-<code>CSS</code>
-&nbsp;
-<code>JavaScript</code>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<code>MySQL</code>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<code>Git</code>
-&nbsp;
-<code>GitHub</code>
-&nbsp;
-<code>AWS</code>
-
-</div>
-
-<br>
-
 ---
 
 ## `03. CERTIFICATIONS`
@@ -182,9 +138,46 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 <br>
 
+---
+
+## `04. TECH STACK`
+
+<h3>Languages & Database</h3>
+
+<table>
+<tr>
+<th>Technology</th>
+<th>Proficiency</th>
+<th>Experience</th>
+</tr>
+
+<tr>
+<td><b>C++</b></td>
+<td>★★★★★</td>
+<td>STL, 자료구조, 알고리즘 문제 해결 및 객체지향 프로그래밍</td>
+</tr>
+
+<tr>
+<td><b>Python</b></td>
+<td>★★☆☆☆</td>
+<td>기초 문법, API 호출 및 데이터 처리 학습</td>
+</tr>
+
+<tr>
+<td><b>SQL / MySQL</b></td>
+<td>★★★☆☆</td>
+<td>JOIN, GROUP BY, 서브쿼리 및 데이터 조회</td>
+</tr>
+</table>
+
+<h3>Tools & Platforms</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode&theme=dark" alt="Git, GitHub, AWS, VS Code">
+</p>
+
 <br>
 
-
-
+---
 
 </div>
