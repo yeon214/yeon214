@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="SeungYeon Shin">
+<img src="./banner_correction.png" width="100%" alt="SeungYeon Shin">
 
 <h3>
 Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
