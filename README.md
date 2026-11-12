@@ -1,20 +1,20 @@
+
 <div align="center">
 
 <img src="./github-header-cropped.png" width="100%" alt="SeungYeon Shin">
 
 <h3>
-생성형 AI와 LLM을 활용한 백엔드 개발에 관심이 있습니다<br>
-아이디어를 실제 서비스로 구현하고 개선하는 과정을 좋아합니다
+Interested in AI, LLMs, Computer Vision, and Database Systems.<br>
+I enjoy learning new technologies and applying them to solve real-world problems.
 </h3>
 
 <img src="https://img.shields.io/badge/AI-8B8CFF?style=flat-square">
 <img src="https://img.shields.io/badge/LLM-7868E6?style=flat-square">
-<img src="https://img.shields.io/badge/DATA-45B8D8?style=flat-square">
-<img src="https://img.shields.io/badge/BACKEND-3976A8?style=flat-square">
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-45B8D8?style=flat-square">
+<img src="https://img.shields.io/badge/DATABASE-3976A8?style=flat-square">
 <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-242938?style=flat-square">
 
 </div>
-
 
 <br>
 
@@ -29,13 +29,15 @@
   </tr>
   <tr>
     <td><b>💡 Interests</b></td>
-    <td>Generative AI · LLM · Backend · Data</td>
+    <td>AI · LLM · Computer Vision · Database</td>
   </tr>
   <tr>
     <td><b>🚀 Focus</b></td>
-    <td>AI-powered Backend Service Development</td>
+    <td>AI &amp; Data-Driven Problem Solving</td>
   </tr>
 </table>
+
+
 
 
 ## `02. TECH STACK`
