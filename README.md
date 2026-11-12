@@ -89,26 +89,20 @@ using camera footage, sensor data, and weather information.
     <th>Status</th>
   </tr>
   <tr>
-    <td>2026 모두의 창업</td>
-    <td>2차 1R 진출 · 참가 중</td>
+    <td>2026 모두의 창업 2차</td>
+    <td>1R 진출 · 참가 중</td>
   </tr>
   <tr>
     <td>교내 콜라보 경진대회</td>
-    <td>참가 중</td>
+    <td>예선 참가 중</td>
   </tr>
   <tr>
     <td>교내 캡스톤 경진대회</td>
-    <td>참가 중</td>
+    <td>예선 참가 중</td>
   </tr>
 </table>
 
-<p>
-  <a href="https://github.com/yeon214">
-    <img src="https://img.shields.io/badge/View%20Repository-242938?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
 
-    </td>
   </tr>
 </table>
 
