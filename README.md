@@ -22,8 +22,12 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 <table>
   <tr>
+    <td><b>🏫 University</b></td>
+    <td>Dong-Eui University</td>
+  </tr>
+  <tr>
     <td><b>🎓 Major</b></td>
-    <td>Software Engineering</td>
+    <td>Department of Applied Software Engineering</td>
   </tr>
   <tr>
     <td><b>💡 Interests</b></td>
