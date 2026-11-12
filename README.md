@@ -56,7 +56,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <img src="https://img.shields.io/badge/Capstone-Team%20Project-7868E6?style=flat-square">
 
 <p>
-카메라 영상, 수위 센서 및 기상 데이터를 활용하여 터널·지하차도의 침수 위험을 감지하고, 위험 상황에 대응하기 위한 AI 기반 도로 안전 관리 시스템
+카메라 영상, 수위 센서 및 기상 데이터를 활용하여 터널·지하차도의 침수 위험을 감지하고, <br> 위험 상황에 대응하기 위한 AI 기반 도로 안전 관리 시스템
 </p>
 
 <h4>Tech Stack</h4>
