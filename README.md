@@ -191,3 +191,44 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <br>
 
 ---
+
+## `06. AWARDS & ACTIVITIES`
+
+<h3>Achievements & Awards</h3>
+
+- 🏆 **교내 코딩 사이트 전체 1위**
+  - C++ 중심 알고리즘 문제 해결 · 약 2년간 1위 유지
+  - [View Ranking](http://ascode.org/ranklist.php)
+
+- 🏅 **C++ 튜터링 우수상**
+  - 2025년 1학기 · 튜터 활동
+  - [View Award](./tutoring-award-2025-1.pdf)
+
+<h3>Training & Tutoring</h3>
+
+- 🎓 **교내 부트캠프 고급 과정 수료** (2026년 여름방학)
+  - [View Certificate](./bootcamp-advanced.pdf)
+
+- 🎓 **교내 부트캠프 중급 과정 수료** (2026년 여름방학)
+  - [View Certificate](./bootcamp-intermediate.pdf)
+
+- 📘 **C++ 튜터링 프로그램 — 튜터** (2025년 1학기)
+  - [View Certificate](./tutoring-2025-1.pdf)
+
+- 📘 **C++ 튜터링 프로그램 — 튜티** (2024년 2학기)
+  - [View Certificate](./tutoring-2024-2.pdf)
+
+- 📘 **C++ 튜터링 프로그램 — 튜티** (2024년 1학기)
+  - [View Certificate](./tutoring-2024-1.pdf)
+
+<h3>Other Experience</h3>
+
+- 🔍 **데이터 라벨링 검수 경험**
+  - 이미지 데이터 라벨링 결과 검토 및 수정
+
+- 🥉 **교내 코딩 대회 장려상**
+  - 2024년 2학기
+
+<br>
+
+---
