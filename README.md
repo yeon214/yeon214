@@ -97,7 +97,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
   </tr>
   <tr>
     <td>교내 콜라보 경진대회</td>
-    <td>예선 참가 중</td>
+    <td>참가 중</td>
   </tr>
   <tr>
     <td>교내 캡스톤 경진대회</td>
