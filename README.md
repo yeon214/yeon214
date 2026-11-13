@@ -73,15 +73,18 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <b>Completed</b>
 <ul>
 <li>기상청 API 신청 및 호출 테스트</li>
+<li>터널 좌표의 기상청 격자 좌표 변환 및 강수량 데이터 수집 코드 구현</li>
 <li>AI 학습 데이터셋 공동 조사</li>
 <li>시연용 하드웨어 구성 검토 및 구매 목록 정리</li>
 </ul>
 
 <b>Planned</b>
 <ul>
-<li>기상청 데이터 수집 및 위험도 데이터 결합 모듈 개발</li>
-<li>AI 학습 데이터 라벨링 및 Ollama 기반 LLM 자동 보고서 구현</li>
-<li>실제 센서·카메라 데이터 기반 시스템 통합 테스트 및 오류 수정</li>
+<li>시연용 수조 이미지 데이터셋 구축 및 라벨링</li>
+<li>YOLO 기반 침수 감지 모델 학습 및 최종 모델 완성</li>
+<li>Ollama 기반 LLM 자동 보고서 생성 시스템 설계 및 개발</li>
+<li>기상·센서·AI 분석 결과를 활용한 보고서 자동 생성 기능 구현</li>
+<li>실제 시연 환경 기반 AI 모델 성능 검증 및 시스템 통합 테스트</li>
 </ul>
 
 <h4>🏆 Competitions</h4>
