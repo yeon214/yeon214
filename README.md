@@ -46,6 +46,9 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 ## `02. PROJECTS`
 
+
+## `02. PROJECTS`
+
 <table>
   <tr>
     <td width="100%">
@@ -56,7 +59,8 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <img src="https://img.shields.io/badge/Capstone-Team%20Project-7868E6?style=flat-square">
 
 <p>
-카메라 영상, 수위 센서 및 기상 데이터를 활용하여 터널·지하차도의 침수 위험을 감지하고, <br> 위험 상황에 대응하기 위한 AI 기반 도로 안전 관리 시스템
+카메라 영상, 수위 센서 및 기상 데이터를 활용하여 터널·지하차도의 침수 위험을 감지하고,<br>
+위험 상황에 대응하기 위한 AI 기반 도로 안전 관리 시스템
 </p>
 
 <h4>Tech Stack</h4>
@@ -70,49 +74,23 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 <h4>My Contributions</h4>
 
-<b>Completed</b>
 <ul>
-<li>기상청 API 신청 및 호출 테스트</li>
-<li>터널 좌표의 기상청 격자 좌표 변환 및 강수량 데이터 수집 코드 구현</li>
-<li>AI 학습 데이터셋 공동 조사</li>
-<li>시연용 하드웨어 구성 검토 및 구매 목록 정리</li>
+  <li>기상청 API 연동 및 강수량 데이터 수집 기능 구현</li>
+  <li>AI 학습 데이터셋 조사 및 시연용 하드웨어 구성 검토</li>
 </ul>
 
-<b>Planned</b>
-<ul>
-<li>시연용 수조 이미지 데이터셋 구축 및 라벨링</li>
-<li>YOLO 기반 침수 감지 모델 학습 및 최종 모델 완성</li>
-<li>Ollama 기반 LLM 자동 보고서 생성 시스템 설계 및 개발</li>
-<li>기상·센서·AI 분석 결과를 활용한 보고서 자동 생성 기능 구현</li>
-<li>실제 시연 환경 기반 AI 모델 성능 검증 및 시스템 통합 테스트</li>
-</ul>
+<br>
 
-<h4>🏆 Competitions</h4>
+<a href="https://github.com/yeon214/AI-Flood-Detection-System">
+  <img src="https://img.shields.io/badge/View%20Project%20Details-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<table>
-  <tr>
-    <th>Competition</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>2026 모두의 창업 2차</td>
-    <td>1R 진출 · 참가 중</td>
-  </tr>
-  <tr>
-    <td>교내 콜라보 경진대회</td>
-    <td>참가 중</td>
-  </tr>
-  <tr>
-    <td>교내 캡스톤 경진대회</td>
-    <td>예선 참가 중</td>
-  </tr>
-</table>
-
-
+    </td>
   </tr>
 </table>
 
 <br>
+
 
 <table>
   <tr>
