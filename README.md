@@ -43,10 +43,6 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <br>
 
 ---
-
-## `02. PROJECTS`
-
-
 ## `02. PROJECTS`
 
 <table>
@@ -84,8 +80,6 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <a href="https://github.com/yeon214/AI-Flood-Detection-System">
   <img src="https://img.shields.io/badge/View%20Project%20Details-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-    </td>
   </tr>
 </table>
 
