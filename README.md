@@ -101,7 +101,6 @@ I enjoy learning new technologies and applying them to solve real-world problems
 </table>
 
 <br>
----
 
 ## `03. CERTIFICATIONS`
 
