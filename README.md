@@ -116,7 +116,7 @@ OpenCV와 SVM을 활용한 차량 번호판 검출 프로젝트<br>
 </ul>
 
 <a href="https://github.com/yeon214/opencv-license-plate-recognition">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT_DETAILS-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT_DETAILS-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
   </tr>
 </table>
