@@ -86,21 +86,45 @@ I enjoy learning new technologies and applying them to solve real-world problems
 <br>
 
 
+
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td width="100%" align="left">
 
-<h3>Computer Vision Project</h3>
+<h3>OpenCV License Plate Recognition</h3>
 
-<img src="https://img.shields.io/badge/Coming%20Soon-8B8CFF?style=flat-square">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/Computer_Vision-Project-blue?style=flat-square">
 
-<p>A new computer vision project is on the way.</p>
+<p>
+OpenCV와 SVM을 활용한 차량 번호판 검출 프로젝트<br>
+조명 변화에 따른 검출 성능 비교 및 영상 전처리를 통한 검출 정확도 개선
+</p>
 
-<br>
+<p>Tech Stack</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/SVM-555555">
+
+<p>Key Features</p>
+
+<ul>
+  <li>SVM 기반 차량 번호판 검출 및 분류</li>
+  <li>조명 변화에 따른 검출 성능 비교</li>
+  <li>히스토그램 평활화 및 이진화 임계값 조정</li>
+</ul>
+
+<a href="https://github.com/yeon214/opencv-license-plate-recognition">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT_DETAILS-181717?logo=github&logoColor=white">
+</a>
+
+    </td>
   </tr>
 </table>
 
 <br>
+
 
 ## `03. CERTIFICATIONS`
 
