@@ -91,7 +91,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
   <tr>
     <td width="100%" align="left">
 
-<h3>OpenCV License Plate Recognition</h3>
+<h2>OpenCV License Plate Recognition</h2>
 
 <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square">
 <img src="https://img.shields.io/badge/Computer_Vision-Project-blue?style=flat-square">
