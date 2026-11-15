@@ -101,13 +101,13 @@ OpenCV와 SVM을 활용한 차량 번호판 검출 프로젝트<br>
 조명 변화에 따른 검출 성능 비교 및 영상 전처리를 통한 검출 정확도 개선
 </p>
 
-<p>Tech Stack</p>
+<h4>Tech Stack</h4>
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/SVM-555555">
 
-<p>Key Features</p>
+<h4>Key Features</h4>
 
 <ul>
   <li>SVM 기반 차량 번호판 검출 및 분류</li>
