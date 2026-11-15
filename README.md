@@ -180,7 +180,7 @@ OpenCV와 SVM을 활용한 차량 번호판 검출 프로젝트<br>
   <a href="https://velog.io/@sunyeon1115/posts">
     <img src="./velog-card.svg" width="46%" alt="Velog Tech Blog">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
 </p>
 
 <br>
