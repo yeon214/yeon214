@@ -153,19 +153,19 @@ OpenCV와 SVM을 활용한 차량 번호판 검출 프로젝트<br>
 
 <tr>
 <td><b>C++</b></td>
-<td>★★★★★</td>
+<td>★★★★☆</td>
 <td>STL, 자료구조, 알고리즘 문제 해결 및 객체지향 프로그래밍</td>
 </tr>
 
 <tr>
 <td><b>Python</b></td>
-<td>★★★☆☆</td>
+<td>★★☆☆☆</td>
 <td>API 호출 및 데이터 처리 학습</td>
 </tr>
 
 <tr>
 <td><b>SQL / MySQL</b></td>
-<td>★★★☆☆</td>
+<td>★★☆☆☆</td>
 <td>JOIN, GROUP BY, 서브쿼리 및 데이터 조회</td>
 </tr>
 </table>
